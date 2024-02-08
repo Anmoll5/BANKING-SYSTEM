@@ -1,7 +1,7 @@
 **Banking System Console-Based Mini Project**
 
-**Introduction**
 This is a console-based banking system implemented in C++ as a mini-project. The system allows users to perform basic banking operations such as opening an account, checking balance, depositing, withdrawing, closing, and viewing all accounts.
+**Introduction**
 
 **How to Use**
 1) Compile and Run:
